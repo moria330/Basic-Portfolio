@@ -1,3 +1,21 @@
-body {
+/* whole page width */
+
+* {
     width: 960px;
 }
+
+#name {}
+
+#contact {}
+
+#connect {}
+
+#about {}
+
+#portfolio-gallery {}
+
+h1 {}
+
+h2 {}
+
+a {}
